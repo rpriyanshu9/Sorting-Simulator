@@ -1,0 +1,5 @@
+*.pdf
+SRS.iml
+.idea/
+__pycache__/
+venv/
